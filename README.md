@@ -1,23 +1,21 @@
-👋 Hi there! I'm Carlos Michael Marpaung
+# 👋 Hi there! I'm Carlos Michael Marpaung
 
-💻 Passionate Web Developer | 🎨 UI/UX Enthusiast
+💻 **Software Developer | Web & Mobile Enthusiast | UI/UX Learner**
 
-🔭 Currently exploring new technologies and developing web applications using my favorite tech stack: HTML, CSS, JavaScript, PHP, Golang, Fiber, Java, Laravel, and Flutter.
+I am deeply passionate about software development, with strong expertise in programming, algorithmic solutions, and building real-world applications that solve meaningful problems. I thrive in dynamic environments, always eager to learn new technologies and enhance my skills.
 
-✨ Key Skills:
+## ✨ **Key Skills**
 
-- **HTML & CSS**: Crafting clean, responsive, and user-friendly interfaces.
-- **JavaScript**: Building dynamic and interactive web applications.
-- **PHP & Laravel**: Developing robust and scalable backend solutions.
-- **Golang**: Writing efficient and high-performance server-side code.
-- **Java**: Building versatile and platform-independent applications.
-- **Flutter**: Creating beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
-- **Fiber**: Developing fast, scalable, and efficient web applications with Golang using Fiber.
+* **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React, Flutter
+* **Backend:** PHP, Laravel, Golang (Fiber), Django, Node.js (basic)
+* **Programming:** Java, C#, Python, Dart
+* **Database:** MySQL, SQL Server
+* **Tools:** Git, Postman, Figma, VS Code
 
-🌱 Always learning something new and excited about contributing to open-source projects.
+## 🚀 **Let's connect!**
 
-🚀 I have a strong passion for web development and enjoy turning complex problems into simple, beautiful, and intuitive designs.
+* 🌐 [Portfolio](https://carlosmarpaung08.github.io/portofolio/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/carlos-michael-marpaung-836392267/)
+* 📧 [calmrp1412@gmail.com](mailto:calmrp1412@gmail.com)
 
-💡 I have good experience in time management, teamwork, and love working with algorithms to solve challenging problems.
-
-Feel free to check out my latest projects and let's connect!
+I am always excited to collaborate on impactful projects and explore new technologies together. Feel free to check out my repositories and reach out for any opportunity to build meaningful software solutions!
