@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Carlos Michael Marpaung
 
-💻 **Software Developer | Web & Mobile Enthusiast | UI/UX Learner**
+💻 **Software Engineer | Web & Mobile Enthusiast | UI/UX Learner**
 
 I am deeply passionate about software development, with strong expertise in programming, algorithmic solutions, and building real-world applications that solve meaningful problems. I thrive in dynamic environments, always eager to learn new technologies and enhance my skills.
 
